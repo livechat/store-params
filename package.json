@@ -1,0 +1,26 @@
+{
+  "name": "store-params",
+  "version": "1.0.3",
+  "description": "Library for storing URL params",
+  "main": "store-params.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/livechat/store-params.git"
+  },
+  "keywords": [
+    "cookies",
+    "localstorage",
+    "sessionstorage",
+    "url",
+    "params"
+  ],
+  "author": "Lukasz Labedzki <lukasz.labedzki@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/livechat/store-params/issues"
+  },
+  "homepage": "https://github.com/livechat/store-params#readme"
+}
